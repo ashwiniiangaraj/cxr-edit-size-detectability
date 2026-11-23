@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+*.pyc
+.ipynb_checkpoints/
+_backup_before_import_rename/
+_backup_before_path_fix/
+.venv/
